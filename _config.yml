@@ -13,7 +13,7 @@ sitemap: true
 lang: "en"  # default lang is en
 defaults:
   home:
-    heading: "SEnews"
+    heading: "SE News Station"
     subheading: "News & Events"
     # banner: "Your image url"
 excerpt:
