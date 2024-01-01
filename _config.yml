@@ -4,7 +4,7 @@ author: senews
 copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   News and Ideas.
-baseurl: "/ii" # the subpath of your site, e.g. /blog
+baseurl: "/in" # the subpath of your site, e.g. /blog
 url: "https://senews.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 yat:
